@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302850606035",
+    "project_id": "qrcode-app-57dc6",
+    "storage_bucket": "qrcode-app-57dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302850606035:android:0db69bdb7274b02ea2e526",
+        "android_client_info": {
+          "package_name": "com.example.qr_code_stt_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOevalixlUSgdZ7mrmO_-Bzb4g9HYM2dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
